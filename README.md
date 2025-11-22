@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @DonMwach
-- 👀 I’m interested in ... AI, Machine Learning, Deep Learning,  all emerging trends in computing and everything about Information Technology, Data Warehousing, Telecommunication, Automotive and Technological innovations.
-- 🌱 I’m currently learning ... Front-end and Back-end website developing, Software Engineering, System Analysis and Network Security.
-- 💞️ I’m looking to collaborate on ... Coding, Poetry and Research
-- 📫 How to reach me ... twitter: @MwamburiDonald, donaldmwachongomwamburi@gmail.com
-- 😄 Pronouns: ... Mr.
-- ⚡ Fun fact: ... My dark past built a champion in me..😞
+I’m Don Mwach (Mr. Google).
+I am a Software Engineer, Full-Stack Web Developer, System Analyst, and Network Security Enthusiast.
 
-<!---
-DonMwach/DonMwach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am deeply interested in Artificial Intelligence, Machine Learning, Deep Learning, Blockchain, Cloud Computing, Data Warehousing, Telecommunication, and emerging innovations in computing and automotive technology.
+
+I have experience in front-end and back-end development, digital marketing, networking, and technical research. I also write blogs on Ethereum, StarkNet, and broader blockchain technologies. I enjoy combining creativity and tech through writing, poetry, and community engagement.
+
+I am currently expanding my skills in cloud architecture, cybersecurity, distributed systems, and production-level software engineering with tools like Python, Flask, Java Spring Boot, PostgreSQL, RabbitMQ, and virtualization technologies.
+
+I am open to collaborating on software projects, research work, technical writing, and community-focused tech solutions.
+
+Contact:
+Twitter/X: @mRGoogleorg
+Email: donaldmwachongomwamburi@gmail.com
+
+Fun fact: My past shaped my discipline and resilience; it built the person I am today.
